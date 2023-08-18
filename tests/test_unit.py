@@ -1,17 +1,22 @@
 """
-FindMyOrder Unit Testing
+igotnews Unit Testing
 """
-
-from datetime import datetime
 
 import pytest
 
-from findmyorder import FindMyOrder, settings
+from headlinehunt.config import settings
+from headlinehunt.main import GoogleNews
 
 
 @pytest.fixture(scope="session", autouse=True)
 def set_test_settings():
     settings.configure(FORCE_ENV_FOR_DYNACONF="testing")
+
+
+@pytest.fixture(scope="session", autouse=True)
+def set_test_settings():
+    settings.configure(FORCE_ENV_FOR_DYNACONF="testing")
+<<<<<<<-HEAD
     
 
 @pytest.fixture(name="fmo")
@@ -225,3 +230,14 @@ async def test_contains_emoji(fmo,order_with_emoji):
     result = await fmo.contains_emoji(order_with_emoji)
     assert result is True
 
+t.mark.asyncio
+async def test_dynaconf():
+    assert settings.VALUE == "On Testing"
+
+
+@pytest.mark.asyncio
+async def test_myllm():
+    gn = GoogleNews()
+    response = await gn.search("EURUSD")
+    assert response is not None
+>>>>>>> bc36e298a185e276fd852d3d54fba66f60822150

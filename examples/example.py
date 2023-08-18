@@ -8,7 +8,7 @@ import sys
 import uvicorn
 from fastapi import FastAPI
 from loguru import logger
-from xxxxx import __version__, xxxxx
+from headlinehunt import 
 
 logger.remove()
 logger.add(sys.stderr, level="DEBUG")

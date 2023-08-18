@@ -25,13 +25,17 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.10"
 dynaconf = "^3.1.12"
-loguru = "^0.7.0"
+loguru = "0.6.0"
+feedparser = "^6.0.10"
+beautifulsoup4 = "^4.12.2"
+dateparser = "^1.1.8"
+requests = "^2.31.0"
 
 
 
 [tool.poetry.group.dev.dependencies]
 python-semantic-release = "^8.0.2"
-ruff = ">=0.0.284,<0.0.285"
+ruff = ">=0.0.285"
 
 
 [tool.ruff]
@@ -97,7 +101,7 @@ omit = [
 
 [tool.semantic_release]
 upload_to_vcs_release = true
-version_variables = ["pyproject.toml:version","xxxxx/__init__.py:__version__"]
+version_variables = ["pyproject.toml:version","headlinehunt/__init__.py:__version__"]
 build_command = "pip install poetry && poetry build"
 commit_parser = "emoji"
 

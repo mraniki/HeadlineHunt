@@ -8,7 +8,7 @@ Installation
 
 ::
     
-    pip install xxxxxx
+    pip install headlinehunt
 
 
 Example
