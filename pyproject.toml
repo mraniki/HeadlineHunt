@@ -4,22 +4,22 @@ build-backend = "poetry.core.masonry.api"
 
 
 [tool.poetry]
-name = "name"
+name = "HeadlineHunt"
 version = "0.0.0"
-description = "A python library."
+description = "A python library for news."
 authors = ["mraniki <8766259+mraniki@users.noreply.github.com>"]
 license = "MIT License"
 readme = "README.md"
-keywords = ["template"]
+keywords = ["News"]
 packages = [
-    {include = "xxxxxxx"}
+    {include = "headlinehunt"}
 ]
 
 
 [tool.poetry.urls]
-"Changelog" =  "https://github.com/mraniki/xxxxxx/blob/dev/CHANGELOG.rst"
-"Support" =  "https://github.com/mraniki/xxxxx/discussions"
-"Issues" =  "https://github.com/mraniki/xxxxx/issues"
+"Changelog" =  "https://github.com/mraniki/headlinehunt/blob/dev/CHANGELOG.rst"
+"Support" =  "https://github.com/mraniki/headlinehunt/discussions"
+"Issues" =  "https://github.com/mraniki/headlinehunt/issues"
 
 
 [tool.poetry.dependencies]

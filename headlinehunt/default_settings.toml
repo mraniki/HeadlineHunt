@@ -10,17 +10,32 @@
 # talkytrend object:
 # settings.toml
 # [default]
-# talkytrend_enabled = false
+# headlinehunt_enabled = false
 
 [default]
 # Dynaconf settings verification
 VALUE = "On Default"
 
 # Module Enable/Disable
-google_news_lang = "en"
-google_news_country = "US"
-google_news_base_url = 'https://news.google.com/rss'
+headlinehunt_enabled = true
 
+# RSS
+enable_rss = true
+news_rss_url = 'https://news.google.com/rss'
+
+# SERP API Key
+serpapi_key = ""
+# SERP API Engine
+serpapi_engine = "google"
+
+# News Enable/Disable
+enable_api_news = false
+# News API key
+news_api_key = ""
+# News API endpoint
+news_api_url="https://gnews.io/api/v4/top-headlines?category=business&lang=en&max=2&apikey="
+
+news_provider = "Finnhub"
 
 ########################################
 ###     END OF DEFAULT SETTINGS      ###
