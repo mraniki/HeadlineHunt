@@ -12,12 +12,12 @@
   </tr>
   <tr>
     <td>
-      <a href="https://pypi.org/project/xxxxxxx/"><img src="https://img.shields.io/pypi/v/xxxxxxx?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
-      <a href="https://pypi.org/project/xxxxxxx/"><img src="https://img.shields.io/pypi/dm/xxxxxxx?style=for-the-badge&logo=PyPI&logoColor=white&label=pypi&labelColor=grey"></a><br>
-      <a href="https://github.com/mraniki/xxxxxxx/"><img src="https://img.shields.io/github/actions/workflow/status/mraniki/xxxxxxx/%F0%9F%91%B7Flow.yml?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
-   <a href="https://talky.readthedocs.io/"><img src="https://readthedocs.org/projects/xxxxxxx/badge/?version=latest&style=for-the-badge"></a><br>
-   <a href="https://codebeat.co/projects/github-com-mraniki-xxxxxxx-main"><img src="https://codebeat.co/badges/xxxxxxx"/></a><br>
-   <a href="https://codecov.io/gh/mraniki/xxxxxxx"> <img src="https://codecov.io/gh/mraniki/iamlistening/branch/main/graph/badge.svg?token=xxxxxxx"/></a><br>
+      <a href="https://pypi.org/project/headlinehunt/"><img src="https://img.shields.io/pypi/v/headlinehunt?style=for-the-badge&logo=PyPI&logoColor=white"></a><br>
+      <a href="https://pypi.org/project/headlinehunt/"><img src="https://img.shields.io/pypi/dm/headlinehunt?style=for-the-badge&logo=PyPI&logoColor=white&label=pypi&labelColor=grey"></a><br>
+      <a href="https://github.com/mraniki/headlinehunt/"><img src="https://img.shields.io/github/actions/workflow/status/mraniki/headlinehunt/%F0%9F%91%B7Flow.yml?style=for-the-badge&logo=GitHub&logoColor=white"></a><br>
+   <a href="https://talky.readthedocs.io/"><img src="https://readthedocs.org/projects/headlinehunt/badge/?version=latest&style=for-the-badge"></a><br>
+   <a href="https://codebeat.co/projects/github-com-mraniki-xxxxxxx-main"><img src="https://codebeat.co/badges/headlinehunt"/></a><br>
+   <a href="https://codecov.io/gh/mraniki/xxxxxxx"> <img src="https://codecov.io/gh/mraniki/headlinehunt/branch/main/graph/badge.svg?token=xxxxxxx"/></a><br>
     </td>
     <td align="left"> 
       xxxxxxx<br>
@@ -30,11 +30,11 @@
 <h5>How to use it</h5>
 <pre>
 <code>
-    xxxxxxxxxxxxxxxxxxxxx
-    xxxxxxxxxxxxxx
+    
+    
 </code>
 </pre>
 
 
 <h5>Documentation</h5>
-<a href="https://talky.readthedocs.io/projects/xxxxxxx/en/latest/"><img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=white"></a><br>
+<a href="https://talky.readthedocs.io/projects/headlinehunt/en/latest/"><img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=readthedocs&logoColor=white"></a><br>

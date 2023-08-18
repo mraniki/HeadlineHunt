@@ -1,5 +1,5 @@
 ===========
-FindMyOrder
+HeadlineHunt
 ===========
 
 .. image:: ../docs/_static/logo-full.png
@@ -7,7 +7,7 @@ FindMyOrder
   :alt: logo
   :align: right
 
-| xxxxxxxx
+| get your news
 
 
 User Guide
