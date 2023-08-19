@@ -35,7 +35,7 @@ news_api_key = ""
 # News API endpoint
 news_api_url="https://gnews.io/api/v4/top-headlines?category=business&lang=en&max=2&apikey="
 
-news_provider = "Finnhub"
+news_provider = "finnhub"
 
 ########################################
 ###     END OF DEFAULT SETTINGS      ###
