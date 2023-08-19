@@ -27,8 +27,8 @@ class Headliner
         self.enabled = settings.headliner_enabled
         if not self.enabled:
             return
-        self.news_source = 
-        self.search_source = 
+        self.news_source = None
+        self.search_source = None
         
 
     async def get_headliner_info(self):
@@ -53,7 +53,22 @@ class Headliner
                 link = data["link"]
                 return f"📰 <a href='{link}'>{title}</a>"
 
+# async def fetch_top_news(self):
+#     try:
+#         async with aiohttp.ClientSession() as session:
+#             async with session.get(self.news_url, timeout=10) as response:
+#                 data = await response.json()
+#                 articles = data.get('articles', [])
+#                 key_news = [
+#                     {'title': article['title'], 'url': article['url']}
+#                     for article in articles
+#                 ]
+#                 last_item = key_news[-1]
+#                 return f"📰 <a href='{last_item['url']}'>{last_item['title']}</a>"
 
+#     except aiohttp.ClientError as error:
+#         self.logger.warning("news %s", error)
+#         return None
 
     def top_news(self):
         """Return a list of all articles from the main page of Google News
@@ -64,38 +79,7 @@ class Headliner
         d["entries"] = self.__add_sub_articles(d["entries"])
         return d
 
-    def topic_headlines(self, topic: str):
-        """Return a list of all articles from the topic page of Google News
-        given a country and a language"""
-        # topic = topic.upper()
-        if topic.upper() in [
-            "WORLD",
-            "NATION",
-            "BUSINESS",
-            "TECHNOLOGY",
-            "ENTERTAINMENT",
-            "SCIENCE",
-            "SPORTS",
-            "HEALTH",
-        ]:
-            d = self.__parse_feed(
-                self.BASE_URL
-                + "/headlines/section/topic/{}".format(topic.upper())
-                + self.__ceid()
-            )
-
-        else:
-            d = self.__parse_feed(
-                self.BASE_URL + "/topics/{}".format(topic) + self.__ceid(),
-            )
-
-        d["entries"] = self.__add_sub_articles(d["entries"])
-        if len(d["entries"]) > 0:
-            return d
-        else:
-            raise Exception("unsupported topic")
-
-    def search(
+    def google_search(
         self,
         query: str,
         helper=True,
