@@ -2,6 +2,15 @@
 
 
 
+## v0.1.2 (2023-08-19)
+
+### Update
+
+* Update README.md ([`13e916e`](https://github.com/mraniki/HeadlineHunt/commit/13e916e1c0abe7531c4b88cb6b931f6a261bd935))
+
+* Update test_unit.py ([`80198bd`](https://github.com/mraniki/HeadlineHunt/commit/80198bd4ebe81ec62fb3132a97ae0dfb4e9ad1c2))
+
+
 ## v0.1.1 (2023-08-19)
 
 ### Update
