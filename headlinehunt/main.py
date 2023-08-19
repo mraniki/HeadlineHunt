@@ -13,7 +13,7 @@ from headlinehunt.config import settings
 
 
 
-class Headliner
+class Headliner():
 
 
     def __init__(self):
