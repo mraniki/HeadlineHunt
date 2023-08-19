@@ -8,14 +8,15 @@ import sys
 import uvicorn
 from fastapi import FastAPI
 from loguru import logger
-from headlinehunt import HeadLiner
+from headlinehunt import Headliner
 
 logger.remove()
 logger.add(sys.stderr, level="DEBUG")
 
 async def main():
     """Main"""
-
+    hh = Headliner()
+    print(hh)
 
 app = FastAPI()
 
