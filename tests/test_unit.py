@@ -13,7 +13,7 @@ def set_test_settings():
     settings.configure(FORCE_ENV_FOR_DYNACONF="testing")
 
 @pytest.fixture(name="hh")
-def Headliner():
+def Headliner_fixture():
     """return hh"""
     return Headliner()
 
