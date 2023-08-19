@@ -14,10 +14,10 @@ def set_test_settings():
 
 @pytest.fixture(name="hh")
 def Headliner():
-    """return fmo"""
+    """return hh"""
     return Headliner()
 
 @pytest.mark.asyncio
 async def test_hh(hh):
-    assert hh is not None
+    assert hh.news_feed is not None
 
