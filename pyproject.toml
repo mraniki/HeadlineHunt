@@ -36,7 +36,7 @@ requests = "^2.31.0"
 finnhub-python = "*"
 alpha-vantage = "*"
 newsapi-python = "*"
-
+news-please = "*"
 
 [tool.poetry.group.dev.dependencies]
 python-semantic-release = "^8.0.2"
