@@ -2,6 +2,15 @@
 
 
 
+## v0.1.1 (2023-08-19)
+
+### Update
+
+* Update test_unit.py ([`db4480e`](https://github.com/mraniki/HeadlineHunt/commit/db4480ef9d283f30e3c3fd4954aac92061bfb7d6))
+
+* Update main.py ([`e3d0168`](https://github.com/mraniki/HeadlineHunt/commit/e3d0168caacddcc7e4af1872f55bf5bd24ef65a4))
+
+
 ## v0.1.0 (2023-08-19)
 
 ### :recycle:
