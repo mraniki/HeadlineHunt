@@ -20,7 +20,6 @@
     </td>
     <td align="left"> 
       Get your news<br>
-       xxxxxxx.
     </td>
      
   </tr>
