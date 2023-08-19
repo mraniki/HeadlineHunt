@@ -28,6 +28,7 @@ class Headliner
         self.enabled = settings.headliner_enabled
         if not self.enabled:
             return
+        self.news_feed = None
         self.news_source = None
         self.search_source = None
         
