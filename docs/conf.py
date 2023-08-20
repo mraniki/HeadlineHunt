@@ -55,8 +55,10 @@ intersphinx_mapping = {
     "iamlistening": (
         "https://iamlistening.readthedocs.io/en/latest", None),
     "talkytrend": ("https://talky.readthedocs.io/projects/talkytrend/en/latest", None),
-    "myllm": ("https://talky.readthedocs.io/projects/myllm/en/latest", None),
-    "headlinehunt": ("https://talky.readthedocs.io/projects/headlinehunt/en/latest", None),
+    "myllm": ("https://myllm.readthedocs.io/en/latest", None),
+    "community": ("https://tt-plugins.readthedocs.io/en/latest", None),
+    "cefi": ("https://cex.readthedocs.io/en/latest", None),
+    "headlinehunt": ("https://headlinehunt.readthedocs.io/en/latest", None),
 }
 
 intersphinx_disabled_reftypes = ["*"]
