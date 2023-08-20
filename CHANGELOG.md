@@ -2,6 +2,27 @@
 
 
 
+## v0.1.3 (2023-08-20)
+
+### Fix
+
+* :memo: hot fix for sphinx Update pyproject.toml ([`2dfd94d`](https://github.com/mraniki/HeadlineHunt/commit/2dfd94def298f54fbdadba4f28e3371e96558302))
+
+### Other
+
+* :construction_worker_man:Flow.yml ([`7663d7a`](https://github.com/mraniki/HeadlineHunt/commit/7663d7af7bce4d55716a97975b9077b8ce3e5050))
+
+### Update
+
+* Update conf.py ([`cbfaf5a`](https://github.com/mraniki/HeadlineHunt/commit/cbfaf5a45b1a12dd0800e0e4923ae5815ffcb8e3))
+
+* Update pyproject.toml ([`0a6634d`](https://github.com/mraniki/HeadlineHunt/commit/0a6634da7afc7868a80a3b8111a583bc644e97fc))
+
+### ♻️
+
+* ♻️ Provider structure ([`930e4b7`](https://github.com/mraniki/HeadlineHunt/commit/930e4b7ee551bd18332a9e453321be05a113d74d))
+
+
 ## v0.1.2 (2023-08-19)
 
 ### Update
