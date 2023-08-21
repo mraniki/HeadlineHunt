@@ -2,13 +2,32 @@
 
 
 
+## v0.1.5 (2023-08-21)
+
+### Other
+
+* Merge pull request #6 from mraniki/dev
+
+Update README.md ([`9042ada`](https://github.com/mraniki/HeadlineHunt/commit/9042ada5d877bd5e77940d5225032f277c41e0fa))
+
+* Merge branch &#39;main&#39; into dev ([`18baff0`](https://github.com/mraniki/HeadlineHunt/commit/18baff08fefe349882d8397f07f383d9958af19d))
+
+
 ## v0.1.4 (2023-08-21)
 
 ### Other
 
+* Merge branch &#39;main&#39; into dev ([`7b18110`](https://github.com/mraniki/HeadlineHunt/commit/7b18110880fa4e2e499214afcfe47eb35cecb5c2))
+
 * Merge pull request #5 from mraniki/renovate/sphinx-7.x
 
 ⬆️(deps): update dependency sphinx to v7.2.2 ([`4ed5d92`](https://github.com/mraniki/HeadlineHunt/commit/4ed5d9226de958ee135a898b07920d0626c79909))
+
+### Update
+
+* Update Requirements ([`084aca4`](https://github.com/mraniki/HeadlineHunt/commit/084aca4dbf1f86373ff38704f856aa11748d3152))
+
+* Update README.md ([`e4aeeb0`](https://github.com/mraniki/HeadlineHunt/commit/e4aeeb0ed0799578e3afaa0a93673e5ca8ceb543))
 
 
 ## v0.1.3 (2023-08-20)
