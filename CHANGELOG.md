@@ -2,6 +2,15 @@
 
 
 
+## v0.1.4 (2023-08-21)
+
+### Other
+
+* Merge pull request #5 from mraniki/renovate/sphinx-7.x
+
+⬆️(deps): update dependency sphinx to v7.2.2 ([`4ed5d92`](https://github.com/mraniki/HeadlineHunt/commit/4ed5d9226de958ee135a898b07920d0626c79909))
+
+
 ## v0.1.3 (2023-08-20)
 
 ### Fix
@@ -14,6 +23,8 @@
 
 ### Update
 
+* Update Requirements ([`1d7d153`](https://github.com/mraniki/HeadlineHunt/commit/1d7d15345efff966d0b330e0d5d6ab23af6ef0f3))
+
 * Update conf.py ([`cbfaf5a`](https://github.com/mraniki/HeadlineHunt/commit/cbfaf5a45b1a12dd0800e0e4923ae5815ffcb8e3))
 
 * Update pyproject.toml ([`0a6634d`](https://github.com/mraniki/HeadlineHunt/commit/0a6634da7afc7868a80a3b8111a583bc644e97fc))
@@ -21,6 +32,10 @@
 ### ♻️
 
 * ♻️ Provider structure ([`930e4b7`](https://github.com/mraniki/HeadlineHunt/commit/930e4b7ee551bd18332a9e453321be05a113d74d))
+
+### ⬆️
+
+* ⬆️(deps): update dependency sphinx to v7.2.2 ([`165a585`](https://github.com/mraniki/HeadlineHunt/commit/165a585622ace69a86fe9c4fe320c653b0b1fc2c))
 
 
 ## v0.1.2 (2023-08-19)
