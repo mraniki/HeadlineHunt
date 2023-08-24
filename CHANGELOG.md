@@ -2,6 +2,23 @@
 
 
 
+## v0.1.6 (2023-08-24)
+
+### Other
+
+* Merge pull request #8 from mraniki/renovate/sphinx-7.x
+
+⬆️(deps): update dependency sphinx to v7.2.3 ([`4c01cd4`](https://github.com/mraniki/HeadlineHunt/commit/4c01cd4a13ce24ff08527ab4e65184347e3c9c21))
+
+### Update
+
+* Update Requirements ([`ac50a57`](https://github.com/mraniki/HeadlineHunt/commit/ac50a579d306e2fe6837aaa62bcc78c82b5adf9d))
+
+### ⬆️
+
+* ⬆️(deps): update dependency sphinx to v7.2.3 ([`f764adb`](https://github.com/mraniki/HeadlineHunt/commit/f764adbb6dec1770b3140b606e61df1417420d06))
+
+
 ## v0.1.5 (2023-08-21)
 
 ### Other
