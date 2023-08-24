@@ -2,6 +2,13 @@
 
 
 
+## v0.1.8 (2023-08-24)
+
+### 👷
+
+* 👷 CI cleanup ([`5a78e3f`](https://github.com/mraniki/HeadlineHunt/commit/5a78e3f1685792049218d6518cba7c78b687c532))
+
+
 ## v0.1.7 (2023-08-24)
 
 ### 🔥
