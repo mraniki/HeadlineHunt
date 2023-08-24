@@ -2,6 +2,13 @@
 
 
 
+## v0.1.7 (2023-08-24)
+
+### 🔥
+
+* 🔥 cleanup ([`df6126b`](https://github.com/mraniki/HeadlineHunt/commit/df6126b864a2f5ab235346eadcf9226f36ad9c03))
+
+
 ## v0.1.6 (2023-08-24)
 
 ### Other
