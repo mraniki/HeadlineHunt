@@ -2,6 +2,13 @@
 
 
 
+## v0.1.10 (2023-08-28)
+
+### Update
+
+* Update README.md ([`c47c740`](https://github.com/mraniki/HeadlineHunt/commit/c47c74052f8e8f8cf2d3accd845bb092f1e43275))
+
+
 ## v0.1.9 (2023-08-28)
 
 ### 🐛
