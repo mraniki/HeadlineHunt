@@ -2,6 +2,17 @@
 
 
 
+## v0.1.9 (2023-08-28)
+
+### 🐛
+
+* 🐛 📝  extension error ([`636762f`](https://github.com/mraniki/HeadlineHunt/commit/636762f18bec855fbf72d03871290b1b91cfb0d6))
+
+### 📝
+
+* 📝 ([`6b8c4b1`](https://github.com/mraniki/HeadlineHunt/commit/6b8c4b11a6ba95616047d707bca3464cbe985ce7))
+
+
 ## v0.1.8 (2023-08-24)
 
 ### 👷
