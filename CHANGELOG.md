@@ -2,6 +2,13 @@
 
 
 
+## v0.1.13 (2023-09-07)
+
+### ⬆️
+
+* ⬆️ ([`40ced95`](https://github.com/mraniki/HeadlineHunt/commit/40ced95f6d8b6a6f7ee9a04b6d60d8a81cca5e9a))
+
+
 ## v0.1.12 (2023-08-31)
 
 ### Other
