@@ -39,8 +39,8 @@ newsapi-python = "*"
 news-please = "*"
 
 [tool.poetry.group.dev.dependencies]
-python-semantic-release = "^8.0.2"
-ruff = ">=0.0.285"
+python-semantic-release = "^8.0.4"
+ruff = "*"
 
 
 [tool.ruff]
