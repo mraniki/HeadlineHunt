@@ -2,6 +2,13 @@
 
 
 
+## v0.1.15 (2023-09-27)
+
+### 👷
+
+* 👷 CI Change ([`2fb150e`](https://github.com/mraniki/HeadlineHunt/commit/2fb150e3e3fcbd56d090018f2b3b111378440eda))
+
+
 ## v0.1.14 (2023-09-09)
 
 ### 👷
