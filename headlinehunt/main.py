@@ -23,7 +23,6 @@ class Headliner:
             None
         """
 
-        self.logger = logger
         self.enabled = settings.headliner_enabled
         if not self.enabled:
             return
